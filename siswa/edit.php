@@ -61,7 +61,7 @@
 
             </div>
             <div>
-                <input type="hidden" name='id' value='<?= $r['id'];?>">
+                <input type="hidden" name='id' value='<?= $r['id'];?>'>
                 <input type="reset" class="btn btn-md btn-warning">
                 <button type="submit" name="update" class="btn btn-md btn-primary">update</button>
             </div>
